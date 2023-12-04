@@ -304,6 +304,7 @@ section:nth-child(even){
 }
 .doctors .box-container .box img{
     height: 20rem;
+    width: 100%;
     border: var(--border);
     border-radius: .5rem;
     margin-top: 1rem;
